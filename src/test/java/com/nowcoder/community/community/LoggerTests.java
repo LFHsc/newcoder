@@ -22,6 +22,9 @@ public class LoggerTests {
         logger.info("ingo log");
         logger.warn("warn log");
         logger.error("error log");
+
+
+
     }
 
 
